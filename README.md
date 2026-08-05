@@ -22,3 +22,9 @@ java src/main/java/com/miniserve/MiniServe.java 8080 ./public
 - Directory listing via index.html
 - Path traversal protection
 - Cache-Control and Last-Modified headers
+
+## Quick Start
+
+```bash
+java src/main/java/com/miniserve/MiniServe.java 8080 ./public
+```
